@@ -110,5 +110,5 @@ No test system added yet
 
 - [@Thiago-Mariotto](https://github.com/kylelobo) - Initial work
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Thiago-Mariotto/web-chat-nodejs/graphs/contributors) who participated in this project.
 
