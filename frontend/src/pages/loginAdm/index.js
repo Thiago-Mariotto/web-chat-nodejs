@@ -5,11 +5,6 @@ import api from '../../services/api';
 
 import './style.css';
 
-import logo from '../../assets/logo.svg';
-import heroes from '../../assets/heroes.png';
-import { useReducer } from 'react';
-
-
 export default function Login(){
 
     const [username, setUsername] = useState('');

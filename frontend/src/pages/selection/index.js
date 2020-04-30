@@ -1,12 +1,10 @@
 import React, { useState } from 'react';
 import { Link, useHistory } from 'react-router-dom';
 import { FiArrowRight } from 'react-icons/fi';
-import api from '../../services/api';
 
 import './style.css';
 
-import logo from '../../assets/logo.svg';
-import heroes from '../../assets/heroes.png';
+
 import { useReducer } from 'react';
 
 

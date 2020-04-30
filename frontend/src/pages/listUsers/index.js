@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import Logo from '../../assets/logo.svg';
-import { Link, useHistory } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { FiArrowLeft } from "react-icons/fi"
 import api from '../../services/api';
 

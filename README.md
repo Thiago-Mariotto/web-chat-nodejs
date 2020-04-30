@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> Web chat using Nodejs and ReactJs.
     <br> 
 </p>
 
@@ -34,11 +34,15 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+This was a challenge project sent by a company to the job selection, The goal is to build a web chat, where the user only inserts his username and can send a message to everyone. The system works in real time, there is an administrator page where it is possible to filter by user name or date, the administrator can also delete messages sent by users. There is no system for verifying the logged in user, nor is there any registration. 
+
+To log in as an administrator. 
+Login: admin
+Password: admin
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -89,10 +93,6 @@ Give an example
 ## 🎈 Usage <a name="usage"></a>
 
 Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 

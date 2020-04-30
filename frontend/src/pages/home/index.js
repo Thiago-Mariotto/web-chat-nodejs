@@ -1,14 +1,8 @@
 import React, { useState } from 'react';
 import { Link, useHistory } from 'react-router-dom';
 import { FiLogIn } from 'react-icons/fi';
-import api from '../../services/api';
 
 import './style.css';
-
-import logo from '../../assets/logo.svg';
-import heroes from '../../assets/heroes.png';
-import { useReducer } from 'react';
-
 
 export default function Login(){
 
@@ -25,7 +19,6 @@ export default function Login(){
 
         console.log("ENVIADO PARA PAGINA DE CONVERSA");
         histoy.push('/userChat');
-
     }
 
     return(
