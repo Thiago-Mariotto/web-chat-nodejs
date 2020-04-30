@@ -30,7 +30,7 @@
 .chat-container .content .message-field{
   height: 100%;
   width: 100%;
-  
+
   
 }
 
@@ -45,7 +45,6 @@
   
 }
 
-
 .textarea{
   margin-top: 20px;
   width: 100%;
@@ -56,10 +55,8 @@
 }
 
 .form{
-  width: 100%;
+  width: 120%;
 }
-
-
 
 .chat-container{
     width: 100%;
