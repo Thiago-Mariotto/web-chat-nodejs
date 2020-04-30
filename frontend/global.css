@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Comic+Neue:400,700&display=swap');
+
+*{
+    margin: 0;
+    padding: 5px;
+    outline: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    font: 400 14px Comic-Neue, sans-serif; 
+    background: #f0f0f5;
+    -webkit-font-smoothing: antialiased;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+input, button{
+    font: 400 18px Comic-Neue, sans-serif; 
+    cursor: pointer;
+    
+}
+
+
+.button:hover{
+    filter: brightness(90%)
+}
+
+.back-link{
+    display: flex;
+    align-items: center;
+    margin-top: 16px;
+    color: #41414d;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: opacity 0.2s;   
+}
+
+.back-link svg{
+    margin-right: 4px;
+}
+
+.back-link:hover{
+    opacity: 0.8;
+}
