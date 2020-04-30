@@ -49,30 +49,46 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them.
 
 ```
-Give examples
+npm
 ```
 
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running.
 
-Say what the step will be
+Clone the repository
 
 ```
-Give the example
+git clone https://github.com/Thiago-Mariotto/web-chat-nodejs.git
 ```
 
-And repeat
+Open the "frontend" folder, execute finish and send the npm install command.
 
 ```
-until finished
+npm install 
 ```
+
+After installing the modules, run yarn start to run the frontend.
+
+```
+yarn start
+
+```
+
+After open the "backend" folder, execute finish and send the npm install command.
+
+```
+npm install 
+```
+
+After installing the modules, run npm start to run the backend.
+
 
 End with an example of getting some data out of the system or using it for a little demo.
 
 ## 🔧 Running the tests <a name = "tests"></a>
 
-Explain how to run the automated tests for this system.
+No test system added yet
 
 ### Break down into end to end tests
 
