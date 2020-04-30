@@ -108,7 +108,7 @@ No test system added yet
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@Thiago-Mariotto](https://github.com/kylelobo) - Initial work
+- [@Thiago-Mariotto](https://github.com/Thiago-Mariotto) - Initial work
 
 See also the list of [contributors](https://github.com/Thiago-Mariotto/web-chat-nodejs/graphs/contributors) who participated in this project.
 
