@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Project Title</h3>
+<h3 align="center">Web Chat</h3>
 
 <div align="center">
 
@@ -56,11 +56,14 @@ npm
 
 A step by step series of examples that tell you how to get a development env running.
 
+
+
 Clone the repository
 
 ```
 git clone https://github.com/Thiago-Mariotto/web-chat-nodejs.git
 ```
+
 
 Open the "frontend" folder, execute finish and send the npm install command.
 
@@ -83,48 +86,29 @@ npm install
 
 After installing the modules, run npm start to run the backend.
 
+```
+npm start 
+```
 
-End with an example of getting some data out of the system or using it for a little demo.
+
+Enjoy the project :)
 
 ## 🔧 Running the tests <a name = "tests"></a>
 
 No test system added yet
 
-### Break down into end to end tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
-
-Add notes about how to use the system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
+- [SQLite](https://www.sqlite.org/index.html) - Database
 - [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
+- [ReactJs](https://reactjs.org/) - Web Front-end
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@Thiago-Mariotto](https://github.com/kylelobo) - Initial work
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
